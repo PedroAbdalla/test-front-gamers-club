@@ -1,4 +1,4 @@
-# linkedin
+# Gamers Club
 
 ## Project setup
 ```
