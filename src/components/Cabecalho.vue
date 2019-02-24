@@ -150,7 +150,7 @@ export default {
                 height: 35px;
                 border-radius: 45px;
                 text-align: center;
-                padding: 4px;
+                padding: 7px;
             }
             .molde {
                 height: 100%;
@@ -167,6 +167,7 @@ export default {
             }
             .progress {
                 border-radius: 7px;
+                background-color: #27293c;
                 .progress-bar {
                     background-image: linear-gradient(to right, #5c3abd 0%, #77dbff 100%);
                 }

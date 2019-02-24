@@ -66,8 +66,9 @@ body {
 }
 #app {
     font-family: Teko;
-    max-width: 1600px;
-    margin: auto 20px;
+    max-width: 1550px;
+    margin: auto;
+    width:  98%;
     .conteudo {
         border: 1px solid #333548;
         margin-top: 87px !important;
