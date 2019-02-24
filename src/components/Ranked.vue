@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="quadro-ranked">
         <div class="titulo">
             <svg-open class=" t-ranked"></svg-open> <span class="ml-1  t-ranked">RANKED OPEN</span>
         </div>
@@ -50,5 +50,10 @@ export default {
     .button-ranked {
         background-color: #2c97de !important;
         background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%) !important;
+    }
+    .quadro-ranked {
+        .n-partidas {
+            color: #2788c8 !important;
+        }
     }
 </style>

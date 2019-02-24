@@ -118,6 +118,8 @@ export default {
                 flex-direction: column;
                 align-items: start;
                 margin-left: 10px;
+                font-family: "Poppins";
+                font-size: 9pt;
                 div:nth-child(2){
                     color: #7c7da3;
                 }

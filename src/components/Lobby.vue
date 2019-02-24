@@ -44,7 +44,7 @@ export default {
 <style lang="scss">
     .historico{
         .historico-numeros {
-            height: 103px;
+            height: 122px;
             background-image: linear-gradient(180deg, rgba(238, 238, 238, 0.1) 0%, rgba(255, 255, 255, 0) 100%);
             color: white;
             .numero {
@@ -69,6 +69,7 @@ export default {
             background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 100%);
             border: none;
             color: white;
+            padding: 5px;
             text-transform: uppercase;
         }
     }
